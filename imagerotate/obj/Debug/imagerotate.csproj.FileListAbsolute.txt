@@ -1,0 +1,10 @@
+C:\Users\VICTOR\source\repos\imagerotate\imagerotate\bin\Debug\imagerotate.exe.config
+C:\Users\VICTOR\source\repos\imagerotate\imagerotate\bin\Debug\imagerotate.exe
+C:\Users\VICTOR\source\repos\imagerotate\imagerotate\bin\Debug\imagerotate.pdb
+C:\Users\VICTOR\source\repos\imagerotate\imagerotate\obj\Debug\imagerotate.csprojAssemblyReference.cache
+C:\Users\VICTOR\source\repos\imagerotate\imagerotate\obj\Debug\imagerotate.Form1.resources
+C:\Users\VICTOR\source\repos\imagerotate\imagerotate\obj\Debug\imagerotate.Properties.Resources.resources
+C:\Users\VICTOR\source\repos\imagerotate\imagerotate\obj\Debug\imagerotate.csproj.GenerateResource.cache
+C:\Users\VICTOR\source\repos\imagerotate\imagerotate\obj\Debug\imagerotate.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\source\repos\imagerotate\imagerotate\obj\Debug\imagerotate.exe
+C:\Users\VICTOR\source\repos\imagerotate\imagerotate\obj\Debug\imagerotate.pdb
